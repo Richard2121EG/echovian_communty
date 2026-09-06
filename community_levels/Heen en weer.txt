@@ -3,7 +3,7 @@ Level: 0
 Name: Heen en weer
 Version: 1.0
 Author: Stijn
-Difficulty: Difficult
+Difficulty: Hard
 
 Grid Shape:
 A: 1-10
