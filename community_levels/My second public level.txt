@@ -1,0 +1,59 @@
+World: 2
+Level: 0
+Name: My second public level
+Version: 1.0
+Author: Richaird
+Difficulty: Medium
+
+Grid Shape:
+A: 1-9
+B: 1-9
+C: 1-9
+D: 1-9
+E: 1-9
+F: 1-9
+G: 1-9
+
+Player:
+A1
+
+Key:
+C5
+
+Portal:
+G9
+
+Walls:
+- 
+
+Lava:
+B2
+B4
+B6
+B8
+D1
+D3
+D5
+D7
+D9
+F2
+F4
+F6
+F8
+
+Stars:
+3 Stars: 9
+2 Stars: 12
+1 Star: 15
+
+Optimal Solution:
+RRDDRDRDR
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Walls
+
+Notes:
+-

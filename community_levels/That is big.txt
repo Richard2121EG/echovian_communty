@@ -1,0 +1,115 @@
+World: 3
+Level: 0
+Name: That is big
+Version: 1.0
+Author: Guus
+Difficulty: Hard
+
+Grid Shape:
+A: 6-14
+B: 4-14
+C: 1-13
+D: 1-12
+E: 1-12
+F: 3-12
+G: 3-12
+H: 4-11
+
+Player:
+D1
+
+Key:
+H7
+
+Portal:
+A14
+
+Walls:
+A6
+A7
+A8
+A9
+A10
+A11
+A12
+B4
+B5
+B10
+B11
+B14
+C3
+C5
+C6
+C8
+C13
+D6
+D9
+D12
+E3
+E5
+E8
+E11
+E12
+F3
+F8
+F9
+F12
+G3
+G5
+G7
+G11
+G12
+H4
+H5
+H6
+H9
+H10
+H11
+
+Lava:
+-
+
+Ice:
+-
+
+Arrows:
+A13: R
+B6: R
+B8: R
+B12: R
+B13: U
+C1: D
+C2: D
+C4: D
+C10: D
+C11: R
+C12: U
+D5: L
+D8: L
+D11: U
+E1: U
+E2: U
+E4: D
+E6: R
+E9: R
+F11: L
+G4: U
+G6: U
+
+Stars:
+3 Stars: 23
+2 Stars: 28
+1 Star: 35
+
+Optimal Solution:
+RRRDRUUUURDLDDDLLRURRUU
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Walls
+- Arrows
+
+Notes:
+-
