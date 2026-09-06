@@ -1,0 +1,55 @@
+World: 1
+Level: 1
+Name: TEST - publiceer-script (mag verwijderd worden)
+Version: 1.0
+
+Grid Shape:
+A: 1-6
+B: 1-6
+C: 1-6
+
+Player:
+A1
+
+Key:
+B3
+
+Portal:
+C6
+
+Walls:
+-
+
+Lava:
+-
+
+Ice:
+-
+
+Arrows:
+-
+
+Grooves:
+-
+
+Boulders:
+-
+
+Echo Switches:
+-
+
+Stars:
+3 Stars: 5
+2 Stars: 8
+1 Star: 11
+
+Optimal Solution:
+RDRDD
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+
+Notes:
+-
