@@ -1,0 +1,89 @@
+World: 3
+Level: 0
+Name: That looks easy
+Version: 1.0
+Author: Richaird
+Difficulty: Easy
+
+Grid Shape:
+A: 3-4
+B: 3-4
+C: 1-4
+D: 1-8
+E: 1-8
+F: 1-8
+G: 2-8
+
+Player:
+E1
+
+Key:
+E4
+
+Portal:
+E8
+
+Walls:
+-
+
+Lava:
+D5
+D6
+D7
+D8
+E3
+F7
+F8
+
+Ice:
+-
+
+Arrows:
+A3: R
+A4: D
+B3: U
+B4: D
+C1: R
+C2: R
+C3: U
+C4: D
+D1: U
+D4: D
+F1: R
+F2: D
+F4: U
+F5: L
+F6: L
+G2: R
+G3: R
+G4: R
+G5: R
+G6: U
+
+Grooves:
+-
+
+Boulders:
+-
+
+Echo Switches:
+-
+
+Stars:
+3 Stars: 5
+2 Stars: 8
+1 Star: 11
+
+Optimal Solution:
+RDRRR
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Lava
+- Arrows
+
+Notes:
+-
+ 
