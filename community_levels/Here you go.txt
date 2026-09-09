@@ -1,0 +1,76 @@
+World: 4
+Level: 0
+Name: Here you go
+Version: 1.0
+Author: Richaird
+Difficulty: Easy
+
+Grid Shape:
+A: 1-5
+B: 1-5
+C: 1-5
+D: 1-6
+E: 1-5
+
+Player:
+D1
+
+Key:
+C5
+
+Portal:
+E1
+
+Walls:
+-
+
+Lava:
+D6
+
+Ice:
+A2
+A3
+B1
+B4
+C1
+C2
+E2
+E3
+E4
+
+Arrows:
+A1: R
+A4: D
+B2: D
+B3: L
+C3: U
+C4: L
+E5: L
+
+Grooves:
+-
+
+Boulders:
+-
+
+Echo Switches:
+-
+
+Stars:
+3 Stars: 6
+2 Stars: 9
+1 Star: 12
+
+Optimal Solution:
+URRRLD
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Lava
+- Ice
+- Arrows
+
+Notes:
+-
