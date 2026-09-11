@@ -1,0 +1,34 @@
+﻿{
+    "backgrounds":  [
+                        {
+                            "id":  "disco",
+                            "file":  "achtergrond_disco.png",
+                            "price":  100,
+                            "pairedWith":  "disco",
+                            "available":  true
+                        },
+                        {
+                            "id":  "minecraft",
+                            "file":  "achtergrond_minecraft.png",
+                            "price":  100,
+                            "pairedWith":  "minecraft",
+                            "available":  true
+                        }
+                    ],
+    "tiles":  [
+                  {
+                      "id":  "disco",
+                      "file":  "tile_disco.png",
+                      "price":  50,
+                      "pairedWith":  "disco",
+                      "available":  true
+                  },
+                  {
+                      "id":  "minecraft",
+                      "file":  "tile_minecraft.png",
+                      "price":  50,
+                      "pairedWith":  "minecraft",
+                      "available":  true
+                  }
+              ]
+}
