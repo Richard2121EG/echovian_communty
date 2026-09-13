@@ -9,14 +9,14 @@
                         },
                         {
                             "id":  "city_soccer",
-                            "file":  "Achtergrond_city_soccer.png",
+                            "file":  "achtergrond_city_soccer.png",
                             "price":  100,
                             "pairedWith":  null,
                             "available":  true
                         },
                         {
                             "id":  "Halloween",
-                            "file":  "Achtergrond_Halloween.png",
+                            "file":  "achtergrond_Halloween.png",
                             "price":  100,
                             "pairedWith":  null,
                             "available":  false
