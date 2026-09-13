@@ -1,0 +1,83 @@
+World: 5
+Level: 0
+Name: Three Balls
+Version: 1.0
+Author: The Black Sheep
+Difficulty: Medium
+Background: -
+Floor Tile: -
+
+Grid Shape:
+A: 1-8
+B: 1-8
+C: 1-8
+D: 1-8
+E: 1-8
+
+Player:
+C1
+
+Key:
+B6
+
+Portal:
+D8
+
+Walls:
+-
+
+Lava:
+-
+
+Ice:
+-
+
+Arrows:
+-
+
+Grooves:
+-
+
+Boulders:
+A3-E3
+A5-E5
+A7-E7
+
+Echo Switches:
+-
+
+Red Key:
+-
+
+Green Key:
+-
+
+Blue Key:
+-
+
+Prisma Red:
+-
+
+Prisma Green:
+-
+
+Prisma Blue:
+-
+
+Stars:
+3 Stars: 11
+2 Stars: 14
+1 Star: 17
+
+Optimal Solution:
+RUDRUDRUDRD
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Boulders
+
+Notes:
+-
+ 

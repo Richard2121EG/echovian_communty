@@ -1,0 +1,86 @@
+World: 5
+Level: 0
+Name: Rolling, rolling, rolling
+Version: 1.0
+Author: The Black Sheep
+Difficulty: Hard
+Background: -
+Floor Tile: -
+
+Grid Shape:
+A: 1-6
+B: 1-6
+C: 1-6
+D: 1-6
+E: 1-6
+F: 1-6
+G: 1-6
+
+Player:
+D1
+
+Key:
+B5
+
+Portal:
+F2
+
+Walls:
+-
+
+Lava:
+-
+
+Ice:
+-
+
+Arrows:
+-
+
+Grooves:
+-
+
+Boulders:
+D6-D4
+A4-C4
+E1-E3
+G4-E4
+
+Echo Switches:
+-
+
+Red Key:
+-
+
+Green Key:
+-
+
+Blue Key:
+-
+
+Prisma Red:
+-
+
+Prisma Green:
+-
+
+Prisma Blue:
+-
+
+Stars:
+3 Stars: 12
+2 Stars: 15
+1 Star: 18
+
+Optimal Solution:
+UURRLDRLDUDD
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Boulders
+
+Notes:
+-
+ 
