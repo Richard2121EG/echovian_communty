@@ -15,8 +15,8 @@
                             "available":  true
                         },
                         {
-                            "id":  "Halloween",
-                            "file":  "achtergrond_Halloween.png",
+                            "id":  "halloween",
+                            "file":  "achtergrond_halloween.png",
                             "price":  100,
                             "pairedWith":  null,
                             "available":  false
