@@ -6,6 +6,20 @@
                             "price":  100,
                             "pairedWith":  "disco",
                             "available":  true
+                        },
+                        {
+                            "id":  "city_soccer",
+                            "file":  "Achtergrond_city_soccer.png",
+                            "price":  100,
+                            "pairedWith":  null,
+                            "available":  true
+                        },
+                        {
+                            "id":  "Halloween",
+                            "file":  "Achtergrond_Halloween.png",
+                            "price":  100,
+                            "pairedWith":  null,
+                            "available":  false
                         }
                     ],
     "tiles":  [
