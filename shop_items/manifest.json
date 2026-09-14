@@ -11,15 +11,15 @@
                             "id":  "city_soccer",
                             "file":  "achtergrond_city_soccer.png",
                             "price":  100,
-                            "pairedWith":  null,
+                            "pairedWith":  "city_soccer",
                             "available":  true
                         },
                         {
                             "id":  "halloween",
                             "file":  "achtergrond_halloween.png",
                             "price":  100,
-                            "pairedWith":  null,
-                            "available":  false
+                            "pairedWith":  "halloween",
+                            "available":  true
                         }
                     ],
     "tiles":  [
@@ -28,6 +28,20 @@
                       "file":  "tile_disco.png",
                       "price":  50,
                       "pairedWith":  "disco",
+                      "available":  true
+                  },
+                  {
+                      "id":  "city_soccer",
+                      "file":  "tile_city_soccer.png",
+                      "price":  50,
+                      "pairedWith":  "city_soccer",
+                      "available":  true
+                  },
+                  {
+                      "id":  "halloween",
+                      "file":  "tile_halloween.png",
+                      "price":  50,
+                      "pairedWith":  "halloween",
                       "available":  true
                   }
               ]
