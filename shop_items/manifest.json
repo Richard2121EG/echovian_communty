@@ -19,7 +19,17 @@
                             "file":  "achtergrond_halloween.png",
                             "price":  100,
                             "pairedWith":  "halloween",
-                            "available":  true
+                            "available":  true,
+                            "availableFrom":  {
+                                                  "day":  15,
+                                                  "month":  10,
+                                                  "year":  null
+                                              },
+                            "availableUntil":  {
+                                                   "day":  5,
+                                                   "month":  11,
+                                                   "year":  null
+                                               }
                         }
                     ],
     "tiles":  [
