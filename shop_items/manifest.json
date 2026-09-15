@@ -30,16 +30,27 @@
                                                    "month":  11,
                                                    "year":  null
                                                }
+                        },
+                        {
+                            "id":  "pirate_harbor",
+                            "file":  "achtergrond_pirate_harbor.png",
+                            "price":  100,
+                            "pairedWith":  null,
+                            "available":  true,
+                            "availableFrom":  null,
+                            "availableUntil":  null
+                        },
+                        {
+                            "id":  "space_station",
+                            "file":  "achtergrond_space_station.png",
+                            "price":  100,
+                            "pairedWith":  null,
+                            "available":  true,
+                            "availableFrom":  null,
+                            "availableUntil":  null
                         }
                     ],
     "tiles":  [
-                  {
-                      "id":  "disco",
-                      "file":  "tile_disco.png",
-                      "price":  50,
-                      "pairedWith":  "disco",
-                      "available":  true
-                  },
                   {
                       "id":  "city_soccer",
                       "file":  "tile_city_soccer.png",
@@ -53,6 +64,15 @@
                       "price":  50,
                       "pairedWith":  "halloween",
                       "available":  true
+                  },
+                  {
+                      "id":  "disco",
+                      "file":  "tile_disco.png",
+                      "price":  50,
+                      "pairedWith":  "disco",
+                      "available":  true,
+                      "availableFrom":  null,
+                      "availableUntil":  null
                   }
               ]
 }
