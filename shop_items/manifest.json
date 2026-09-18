@@ -56,23 +56,35 @@
                       "file":  "tile_city_soccer.png",
                       "price":  50,
                       "pairedWith":  "city_soccer",
-                      "available":  true
+                      "available":  true,
+                      "availableFrom":  null,
+                      "availableUntil":  null
+                  },
+                  {
+                      "id":  "disco",
+                      "file":  "tile_disco.png",
+                      "price":  50,
+                      "pairedWith":  null,
+                      "available":  true,
+                      "availableFrom":  null,
+                      "availableUntil":  null
                   },
                   {
                       "id":  "halloween",
                       "file":  "tile_halloween.png",
                       "price":  50,
                       "pairedWith":  "halloween",
-                      "available":  true
-                  },
-                  {
-                      "id":  "disco",
-                      "file":  "tile_disco.png",
-                      "price":  50,
-                      "pairedWith":  "disco",
                       "available":  true,
-                      "availableFrom":  null,
-                      "availableUntil":  null
+                      "availableFrom":  {
+                                            "day":  15,
+                                            "month":  10,
+                                            "year":  null
+                                        },
+                      "availableUntil":  {
+                                             "day":  5,
+                                             "month":  11,
+                                             "year":  null
+                                         }
                   }
               ]
 }
