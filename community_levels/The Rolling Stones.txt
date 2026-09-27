@@ -1,0 +1,65 @@
+World: 5
+Level: 0
+Name: The Rolling Stones
+Version: 1.0
+
+Grid Shape:
+A: 1-7
+B: 1-7
+C: 1-7
+D: 1-7
+E: 1-7
+
+Player:
+B7
+
+Key:
+B2
+
+Portal:
+A6
+
+Walls:
+-
+
+Lava:
+-
+
+Ice:
+D5
+
+Arrows:
+B4: L
+B5: L
+C3: D
+C5: U
+D3: R
+D4: R
+
+Grooves:
+-
+
+Boulders:
+A4-E4
+A5-E5
+A3-E3
+C7-C1
+
+Stars:
+3 Stars: 9
+2 Stars: 12
+1 Star: 15
+
+Optimal Solution:
+UDLDULRUU
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Ice
+- Arrows
+- Boulders
+
+Notes:
+-
