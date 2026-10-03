@@ -1,0 +1,88 @@
+World: 8
+Level: 0
+Name: River deep
+Version: 1.0
+Author: Richaird
+Difficulty: Easy
+Background: pirate_harbor
+Floor Tile: -
+
+Grid Shape:
+A: 4-5
+B: 3-6
+C: 1-7
+D: 1-8
+E: 1-8
+F: 3-8
+G: 4-8
+
+Player:
+D1
+
+Key:
+F5
+
+Portal:
+G8
+
+Walls:
+C2
+E2
+
+Lava:
+-
+
+Ice:
+-
+
+Arrows:
+-
+
+Grooves:
+-
+
+Boulders:
+-
+
+Rivers:
+A4,B4,C4,D4,E4,F4,G4,G5,G6,G7,F7,E7,E8
+
+Echo Switches:
+D3
+
+Red Key:
+-
+
+Green Key:
+-
+
+Blue Key:
+-
+
+Prisma Red:
+-
+
+Prisma Green:
+-
+
+Prisma Blue:
+-
+
+Stars:
+3 Stars: 10
+2 Stars: 13
+1 Star: 16
+
+Optimal Solution:
+UDRRDDUDUR
+
+Mechanics:
+- Echo Queue
+- Key
+- Portal
+- Walls
+- Rivers
+- Echo Switches
+
+Notes:
+-
