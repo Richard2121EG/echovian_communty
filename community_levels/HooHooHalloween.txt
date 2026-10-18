@@ -1,0 +1,86 @@
+World: 3
+Level: 0
+Name: HooHooHalloween
+Version: 1.0
+Author: Richaird
+Difficulty: Hard
+Background: halloween
+Floor Tile: halloween
+
+Grid Shape:
+A: 1-6
+B: 1-6
+C: 1-6
+D: 1-6
+E: 1-6
+
+Player:
+C1
+
+Crystal Shard:
+C6
+
+Walls:
+-
+
+Lava:
+A5
+B2
+C3
+C5
+D2
+E5
+
+Ice:
+-
+
+Arrows:
+-
+
+Grooves:
+-
+
+Boulders:
+A4-E4
+
+Rivers:
+-
+
+Echo Switches:
+-
+
+Red Key:
+-
+
+Green Key:
+-
+
+Blue Key:
+-
+
+Prisma Red:
+-
+
+Prisma Green:
+-
+
+Prisma Blue:
+-
+
+Stars:
+3 Stars: 12
+2 Stars: 15
+1 Star: 18
+
+Optimal Solution:
+RLUULDRRRRRD
+
+Mechanics:
+- Echo Queue
+- Crystal Shard
+- Lava
+- Boulders
+
+Notes:
+-
+ 
